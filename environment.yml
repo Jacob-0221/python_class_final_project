@@ -1,0 +1,11 @@
+name: final_project
+channels:
+  - defaults
+  - pyviz 
+dependencies:
+  - hvplot
+  - matplotlib
+  - biopython
+  - scipy
+  - jupyter-panel-proxy
+prefix: C:\Users\Administrator\anaconda3\envs\final_project
